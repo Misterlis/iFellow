@@ -20,9 +20,12 @@ public class FunTest {
 
 
 
+
+
     @Test
     public void main() { open("https://demoqa.com/automation-practice-form");
     }
+
 
     @Test
     public void Test1() {
@@ -30,7 +33,7 @@ public class FunTest {
         assertEquals("10","10");
     }
     @Test
-    public void Test2() {
+    public static void Test2() {
         System.out.println("2");
         assertEquals("10", "11");
     }
