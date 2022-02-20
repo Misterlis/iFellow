@@ -22,8 +22,6 @@ public class FunTest {
     public void main() { open("https://demoqa.com/automation-practice-form");
     }
 
-
-
     @Test
     public void Test1() {
         System.out.println("1");
