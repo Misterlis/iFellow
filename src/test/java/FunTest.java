@@ -18,6 +18,8 @@ public class FunTest {
         System.out.println("AfterAll");
     }
 
+
+
     @Test
     public void main() { open("https://demoqa.com/automation-practice-form");
     }
