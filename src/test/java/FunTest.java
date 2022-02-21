@@ -22,7 +22,7 @@ public class FunTest {
         assertEquals("10","10");
     }
     @Test
-    public void Test222() {
+    public void Test22222() {
         System.out.println("2");
         assertEquals("10", "11");
     }
